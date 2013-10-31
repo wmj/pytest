@@ -12,3 +12,5 @@ class ticket(object):
  
         return  "start from %s to %s the date is:%s Class:%s and price:%d" % \
                (self.start,self.destination,self.date,self.Class,self.price)
+
+print "I am come from another computer"
